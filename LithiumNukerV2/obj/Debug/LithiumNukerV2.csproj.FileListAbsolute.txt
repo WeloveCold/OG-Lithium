@@ -1,0 +1,3 @@
+C:\Users\apofi\Desktop\lithium\LithiumNukerV2\obj\Debug\LithiumNukerV2.csproj.AssemblyReference.cache
+C:\Users\apofi\Desktop\lithium\LithiumNukerV2\obj\Debug\LithiumNukerV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\apofi\Desktop\lithium\LithiumNukerV2\obj\Debug\LithiumNukerV2.csproj.CoreCompileInputs.cache

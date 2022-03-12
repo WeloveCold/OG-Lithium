@@ -1,0 +1,9 @@
+C:\Users\apofi\Desktop\lithium\LithiumNukerV2\obj\Release\LithiumNukerV2.csproj.AssemblyReference.cache
+C:\Users\apofi\Desktop\lithium\LithiumNukerV2\obj\Release\LithiumNukerV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\apofi\Desktop\lithium\LithiumNukerV2\obj\Release\LithiumNukerV2.csproj.CoreCompileInputs.cache
+C:\Users\apofi\Desktop\lithium\Compiled\Release\LithiumNukerV2.exe.config
+C:\Users\apofi\Desktop\lithium\Compiled\Release\LithiumNukerV2.exe
+C:\Users\apofi\Desktop\lithium\Compiled\Release\LithiumNukerV2.pdb
+C:\Users\apofi\Desktop\lithium\LithiumNukerV2\obj\Release\LithiumNukerV2.csproj.CopyComplete
+C:\Users\apofi\Desktop\lithium\LithiumNukerV2\obj\Release\LithiumNukerV2.exe
+C:\Users\apofi\Desktop\lithium\LithiumNukerV2\obj\Release\LithiumNukerV2.pdb

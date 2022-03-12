@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BU3ClibzBqcdWGdJxBIZEJdZKVMRbTHHMbEyAOKJVGaoWbOQ4x3ZA2JJmWc3v9gqR1q5MgYtfS4nKbtrR7a2Ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\apofi\\Desktop\\lithium\\LithiumCoreFramework\\LithiumCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\apofi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
